@@ -15,8 +15,8 @@ export default {
   'operator_less_than_or_equal': '<=',
   'operator_contains': 'Содержит',
   'operator_does_not_contain': 'Не содержит',
-  'operator_starts_with': 'Начинаеться с',
-  'operator_ends_with': 'Заканчиваеться на',
+  'operator_starts_with': 'Начинается с',
+  'operator_ends_with': 'Заканчивается на',
   'operator_is_empty': 'Пуст',
   'operator_is_not_empty': 'Не пуст',
   /** Варианты истоников */
